@@ -39,7 +39,13 @@ print('I decided to learn Python because ', reason)
 # number = input('Enter some number: ')
 # print(int(number) + 5)
 
-name = input('Enter name: ')
-age = input('Enter age: ')
+# name = input('Enter name: ')
+# age = input('Enter age: ')
 
-print(f'My name is {name}. I am {age}')
+# print(f'My name is {name}. I am {age}')
+
+
+
+# 10. Напишіть програму, яка просить користувача ввести його прізвище. Та виводить його на екран 
+# у парі з іменем (без використання input(). note: передати як аргумент в команді print() )
+
