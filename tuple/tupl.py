@@ -58,4 +58,20 @@ def common(x, y):
 a = (1,1,1,2,3,4,5)
 b = (1,2,3,4,5,6,7,8)
 
-print(common(a, b))
+# print(common(a, b))
+
+
+# Напишите функцию, которая принимает кортеж чисел и возвращает кортеж, содержащий минимальный и максимальный элементы.
+
+
+
+
+#ДЗ
+
+ocenki = (12, 9, 8, 6, 7, 10)
+
+def avg(x):
+    average = round(sum(x) / len(x), 2)
+    return average
+
+print(avg(ocenki))
