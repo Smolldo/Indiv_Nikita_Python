@@ -33,7 +33,12 @@ def infinity(start):
 
 sequence = infinity(10)
 
-print(next(sequence))
-print(next(sequence))
-print(next(sequence))
-print(next(sequence))
+# print(next(sequence))
+# print(next(sequence))
+# print(next(sequence))
+# print(next(sequence))
+
+# Вычисление суммы всех четных чисел в списке
+
+chisla = [1,2,3,4,5,6,7,8,9,10]
+
